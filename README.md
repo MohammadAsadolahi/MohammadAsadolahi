@@ -1,11 +1,12 @@
 #### Hi there 👋
 
 
-I am **Mohammad Asadolahi (a Data Scientist at Codie.ai and a Junior Machine Learning Researcher)**. I ✨ like ✨  problem solving, studying AI papers, programming and listening to electronic music.
+I am Mohammad Asadolahi (a ***Data Scientist*** at **Codie.ai** and a Junior ***Machine Learning Researcher***).   
+I ✨ like ✨  problem solving, studying AI papers, programming and listening to electronic music.
 
 - 🔭 I’m currently working on Llama 2 (an open source large language model)
 - 🌱 I’m currently learning NLP and specially LLMs and their challenges
-- 👯 I’m looking to collaborate on novel and profound research ideas.
+- 👯 I’m looking to collaborate on novel and profound research ideas in the realm of machine learning.
 
 
 #### 🤝 Connect with me:
